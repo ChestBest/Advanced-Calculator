@@ -13,3 +13,5 @@ Also as a nice touch to end this, when I say 1 hour I wasnt exagerating at all, 
 This project is unlicensed (All Rights Reserved). You may view the source code, but you legally cannot modify, distribute, or use this software without permission.
 
 Anyways, thanks for using my software!!
+
+//More nerdy info is available in the "More info.md" file
