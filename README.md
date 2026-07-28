@@ -4,7 +4,7 @@ Firstly, this whole thing took so long because I spent most of the time on makin
 
 Next, allowing the while loop, while sounding simple and being simple, it took me around an hour to smoothly switch, maybe a skill issue on my end but its ok.
 
-Next is genuinely my pure idiocy, seriously though, I spent 1 hour, yes ONE hour on a very complex looking bug, the entire function didn’t work, turns out I was simply missing out on 9 letters, yep NINE letters deleted a straight 1 hour, if you check the comments on this app is full of gold. The best is definitely “HEHEEEEEEEEEEEE”, honestly I don’t remember why I added this rubbish, I probably spent like an hour trying to get it to work and it finally clicked, no clue.
+Next is genuinely my pure idiocy, seriously though, I spent 1 hour, yes ONE hour on a very complex looking bug, the entire function didn’t work, turns out I was simply missing out on 9 letters, yep NINE letters deleted a straight 1 hour, if you check the comments on this app its full of gold. The best is definitely “HEHEEEEEEEEEEEE”, honestly I don’t remember why I added this rubbish, I probably spent like an hour trying to get it to work and it finally clicked, no clue.
 
 Another MAJOR issue was compiling it to a windows supported .exe file, it took me a WHOLE HOUR to do this very cute simple seeming task, why, I ran wine WITH THE SUDO PRESET, this lead to 1 hour of useless debugging, including completely uninstalling wine and reintalling it with all the packages too, it still didn’t work, so I accepted my fate to run sudo wine for the rest of my life 😭😭.
 
