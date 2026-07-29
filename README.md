@@ -14,6 +14,6 @@ This project is unlicensed (All Rights Reserved). You may view the source code, 
 
 Anyways, thanks for using my software!!
 
-V1.1.1 is the latest version of the calculator app - Any older versions may not have bug fixes or latest features!
+V2.0.0 is the latest version of the calculator app - Any older versions do not represent the current version, many features and logic have been changed. No bugs found.
 
 //More nerdy info is available in the "More info.md" file
