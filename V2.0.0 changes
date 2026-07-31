@@ -5,3 +5,4 @@ so i had to append to an array, which ended up being much more complicated.
 The reason this took me so long was because i fool-proofed it, as i said, you could mash random buttons to your hearts content without the app actually crashing, and after implementing 1 feature
 another had an error, it took me many hours to fix them all, but finally, its done, V2.0.0, the latest version.
 Mash buttons to your hearts content and have a very detailed logs file summarizing your inputs and outputs!
+Yes, there is a tiny bug in the logs file under string inputs for denary to binary (which was fixed in the latest release)
