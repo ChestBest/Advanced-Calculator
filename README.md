@@ -1,19 +1,14 @@
-﻿The nightmares of creating a simple calculator program 🥀
+Advanced Calculator Application
 
-Firstly, this whole thing took so long because I spent most of the time on making a useless amount of guardrails to the program(a two year old could probably mash the keyboard for a while until you reach a real issue), for example, in the mode selections menu, if you enter a non exsisting value, “5” (max is 4) then the app overrides and replaces it with a 1 to prevent the app from crashing, improving stabilty.
+This repository is a lightweight python calculator made with focus for extreme validations and stability within the program.
 
-Next, allowing the while loop, while sounding simple and being simple, it took me around an hour to smoothly switch, maybe a skill issue on my end but its ok.
+I have implemented strong guardrails to handle user inputs without any errors, for example, at the menu screen, if you enter '5' instead of the 1-4 available numbers, the program
+will quickly ignore this and write the found error.
 
-Next is genuinely my pure idiocy, seriously though, I spent 1 hour, yes ONE hour on a very complex looking bug, the entire function didn’t work, turns out I was simply missing out on 9 letters, yep NINE letters deleted a straight 1 hour, if you check the comments on this app its full of gold. The best is definitely “HEHEEEEEEEEEEEE”, honestly I don’t remember why I added this rubbish, I probably spent like an hour trying to get it to work and it finally clicked, no clue.
+Most* major bugs have been tested and fully solved in the non-beta releases, so its safe to use for calculations.
 
-Another MAJOR issue was compiling it to a windows supported .exe file, it took me a WHOLE HOUR to do this very cute simple seeming task, why, I ran wine WITH THE SUDO PRESET, this lead to 1 hour of useless debugging, including completely uninstalling wine and reintalling it with all the packages too, it still didn’t work, so I accepted my fate to run sudo wine for the rest of my life 😭😭.
+Since it can be annoying for linux users to use the app with wine, a native .bin file is provided with non-minor fixes.
 
-Also as a nice touch to end this, when I say 1 hour I wasnt exagerating at all, realistically its “1 hour +”.
+Note: Version 2.x.x is the latest major release, any release builds should not be used for normal use, due to minor bugs or lack of advanced features.
 
-This project is unlicensed (All Rights Reserved). You may view the source code, but you legally cannot modify, distribute, or use this software without permission.
-
-Anyways, thanks for using my software!!
-
-V2.0.0 is the latest version of the calculator app - Any older versions do not represent the current version, many features and logic have been changed. No bugs found.
-
-//More nerdy info is available in the "More info.md" file
+This program is unlicensed, you may view the source code, however you cannot legally modify, redistribute 
