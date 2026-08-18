@@ -1,8 +1,0 @@
-[This file is the same as the description under the Calculator V2.0.0.exe file]
-MANY, MANY improvements, first pretty much all the silent bugs from 1.1.1 were fixed, now you can 100% guaranteed mash buttons without the interpreter hitting an error, using the try, except blocks i checked for string entries 
-the app now has a few more unit conversions, including clear logs for when strings were entered, which was especially difficult due to some areas being in a loop, 
-so i had to append to an array, which ended up being much more complicated. 
-The reason this took me so long was because i fool-proofed it, as i said, you could mash random buttons to your hearts content without the app actually crashing, and after implementing 1 feature
-another had an error, it took me many hours to fix them all, but finally, its done, V2.0.0, the latest version.
-Mash buttons to your hearts content and have a very detailed logs file summarizing your inputs and outputs!
-Yes, there is a tiny bug in the logs file under string inputs for denary to binary (which was fixed in the latest release)
