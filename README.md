@@ -11,4 +11,8 @@ Since it can be annoying for linux users to use the app with wine, a native .bin
 
 Note: Version 2.x.x is the latest major release, any release builds should not be used for normal use, due to minor bugs or lack of advanced features.
 
-This program is unlicensed, you may view the source code, however you cannot legally modify, redistribute 
+This software is free to download and run for both personal and commercial use (including usage by businesses and corporations). However, you may not modify, reverse engineer, or redistribute this software or the program's source code without explicit written permission.
+
+Thank you for using my software.
+
+* "most...bugs" are bugs such as calculation errors and logs calculation displaying errors, and any remaining errors are either spellings or text formatting
