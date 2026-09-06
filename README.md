@@ -13,6 +13,8 @@ Note: Version 2.x.x is the latest major release, any release builds should not b
 
 This software is free to download and run for both personal and commercial use (including usage by businesses and corporations). However, you may not modify, reverse engineer, or redistribute this software or the program's source code without explicit written permission.
 
+Do NOT use V2.1.0, skip it for stability, it contains bugs and will soon be taken down
+
 Thank you for using my software.
 
 ⭑ "most...bugs" are bugs such as calculation errors and logs calculation displaying errors, and any remaining errors are either spellings or text formatting
